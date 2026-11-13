@@ -5,7 +5,7 @@ Not [the official](https://github.com/quwi26/Quwis-Patches) Quwi Patches repo, t
 
 It makes it easier for people to quickly download the patch, instead of having to wait for Morphe to patch the APK.
 
-## Is this the official Orion port for Quwi l's Patches?
+## Is this the official Orion port for Quwi's Patches?
 
 No, it isn't, go [check out](https://github.com/quwi26/Quwis-Patches) the original repo and support the creator.
 
@@ -16,4 +16,13 @@ No, Quwis plugin specifically disables all functions related to Stockfish during
 ## What are its main features ?
 
 - Unlimited Puzzles via Liechess.
-- 
+- Unlimited Coach Matches
+- Unlimited Lessons
+- Unlocks all Bots, including Premium ones.
+- Unlimited Post Match Analysis via Stockfish
+
+The rest of the features can be found on [the official repository page of Quwi.](https://github.com/quwi26/Quwis-Patches)
+
+## Will this be updated ?
+
+This is simply a side project of mine, don't expect frequent updates.
