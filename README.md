@@ -15,7 +15,7 @@ No, Quwis plugin specifically disables all functions related to Stockfish during
 
 ## What are its main features ?
 
-- Unlimited Puzzles via Liechess.
+- Unlimited Puzzles via Lichess.
 - Unlimited Coach Matches
 - Unlimited Lessons
 - Unlocks all Bots, including Premium ones.
