@@ -3,9 +3,10 @@
 This is not <a href="https://github.com/quwi26/Quwis-Patches">the official</a> Quwi Patches repo, this is a fanmade port to the Orion Store by me.
 <p align="center">
   <a href="https://github.com/Arson800/Quwi-Patches-Orion-Port/releases/tag/Official_Port">
-    <img alt="Static Badge" src="https://shields.io">
+    <img alt="Release v4.10.23" src="any_text-you_like-blue.svg">
   </a>
 </p>
+
 
 
 </a><h1 align="center">What does this Orion Port do ?</h1>
