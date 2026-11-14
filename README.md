@@ -7,6 +7,8 @@ This is not <a href="https://github.com/quwi26/Quwis-Patches">the official</a> Q
   </a>
 </p>
 
+[![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=quwi-chess)
+
 
 
 
