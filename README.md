@@ -8,8 +8,7 @@ It makes it easier for people to quickly download the patch, instead of having t
 
 <h1 align="center">Is this the official repo for Quwi patches ?</h1>
 <p align="center">
-No, it isn't, go check out <a href="https://github.com/quwi26/Quwis-Patches">the official</a> Quwi Patches repo, this is a fanmade port to the Orion Store by me.
- the original repo and support the creator.
+No, it isn't, go check out <a href="https://github.com/quwi26/Quwis-Patches">the official</a> repo and support the creator.
 
 <h1 align="center">Will this allow me to cheat in an online match or Tournament ?</h1>
 <p align="center">
@@ -23,7 +22,8 @@ No, Quwis plugin specifically disables all functions related to Stockfish during
 - Unlocks all Bots, including Premium ones.
 - Unlimited Post Match Analysis via Stockfish
 <p align="center">
-The rest of the features can be found on [the official repository page of Quwi.](https://github.com/quwi26/Quwis-Patches)
+The rest of the features can be found on <a href="https://github.com/quwi26/Quwis-Patches">the official repository for Quwis Patches</a>.
+
 
 <h1 align="center">Will this port be updated ?</h1>
 <p align="center">
