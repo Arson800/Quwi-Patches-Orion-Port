@@ -2,10 +2,11 @@
 <p align="center">
 This is not <a href="https://github.com/quwi26/Quwis-Patches">the official</a> Quwi Patches repo, this is a fanmade port to the Orion Store by me.
 <p align="center">
-  <a href="_https://github.com/Arson800/Quwi-Patches-Orion-Port/releases/tag/Official_Port_">
-    <img alt="Latest release" src="https://shields.io">
+  <a href="https://github.com/Arson800/Quwi-Patches-Orion-Port/releases/tag/Official_Port">
+    <img alt="Static Badge" src="https://shields.io">
   </a>
 </p>
+
 
 </a><h1 align="center">What does this Orion Port do ?</h1>
 <p align="center">
