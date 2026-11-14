@@ -1,7 +1,8 @@
 <h1 align="center">Quwi's Chess Patches ORION STORE PORT</h1>
+<p align="center">
 This is not [the official](https://github.com/quwi26/Quwis-Patches) Quwi Patches repo, this is a fanmade port to the Orion Store by me.
-
-## What does this Orion Port do ?
+<p align="center">
+<h1 align="center">What does this Orion Port do ?</h1>
 
 It makes it easier for people to quickly download the patch, instead of having to wait for Morphe to patch the APK.
 
